@@ -7,3 +7,6 @@ Hello! I'm a passionate QA Automation. My journey in the tech world began with a
 ## Contact me
 
 As I continue my journey in QA automation, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+
+## Technologies
+- QA Automation: Proficient in functional testing, manual testing, SQL and postmant. Automation with cypress.
